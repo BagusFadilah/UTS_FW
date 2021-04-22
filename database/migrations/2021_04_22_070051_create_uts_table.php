@@ -4,7 +4,7 @@ use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Support\Facades\Schema;
 
-class CreateUts extends Migration
+class CreateUtsTable extends Migration
 {
     /**
      * Run the migrations.
@@ -14,10 +14,10 @@ class CreateUts extends Migration
     public function up()
     {
         Schema::create('uts', function (Blueprint $table) {
-            $table->id('id');
-            $table->string('nomor_plat');
-            $table->string('merk_kendaraan');
-            $table->string('tipe_kendaraan');
+            $table->increments('id');
+            $table->String('nomor_plat');
+            $table->String('merk_kendaraan');
+            $table->String('tipe_kendaraan');
             $table->timestamps();
         });
     }
