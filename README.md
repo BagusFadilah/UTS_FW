@@ -1,4 +1,5 @@
-Link laporan anjing : https://drive.google.com/file/d/1YyLQKqwGxhi_iH2cT7fHqsuO4fyJ54WR/view?usp=sharing
+Link laporan : https://drive.google.com/file/d/1YyLQKqwGxhi_iH2cT7fHqsuO4fyJ54WR/view?usp=sharing
+Link heroku  : https://kendaraan-fm.herokuapp.com/list-kendaraan
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
